@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "sourceMap": true,
+        "strictNullChecks": true,
+        "lib": [
+            "es2015",
+            "dom"
+        ],
+        "outDir": "dist"
+    }
+}
